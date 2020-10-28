@@ -22,7 +22,7 @@ With the popularity of frachises such as the Marvel Cinematic Universe and Star 
 it goes without saying that the "Adventure" genre is pretty popular, but what are some other popular genres?
 
 ### Findings and Conclusions
-![Imgur](https://i.imgur.com/kpjkSiN.png)
+![Imgur](https://i.imgur.com/twssAc6.png)
 
 There we have it! Adventure is the most profitible genre with animation not far behind it. Documentaries, despite being popular on Netflix, just don't sell well at the box office. This is probably a result it having a niche audience. One caveat about our analysis is that it is too linear. This implies that each movie only falls under a single genre. This is rarely the case, however, since most movies fall into multiple genres.
 
@@ -37,7 +37,7 @@ For now, it is safe to say that you should create an adventure film, but it woul
 Initially, we thought that the median budget for a film was around $50 million.  Considering big budget films like Harry Potter and the Chamber of Secrets had a budget of $100 million (TheNumbers), $50 million seems like a modest amount.
 
 ### Findings and Conclusions
-![Imgur](https://i.imgur.com/gkI3Skq.png)
+![Imgur](https://i.imgur.com/czraTgw.png)
 
 Well, we were off by a few million! Thanks to advent of modern technology, such as, visual studio effects, CGI, etc, budgets have decreased. 30 years ago, that extra expenditure  would have gone towards, car explosions, pyrotechnics, and stuntmen.  However, we do see that, even during the recession in the 2000's, there is a slow but steady increase in the amount of money spent on the production budget.
 
@@ -51,7 +51,7 @@ Currently we recommend the budget be set to $38 million, as our studies have con
 This one is a little a little tricky for me personally because I know that summer is usually when a lot of the big hitter movies come out.  Winter has always been heavy with movie releases.  Then there's the fact that all of the Oscar contenders usually release in the fall.  Personally, I felt that summer was probably most profitable, are there other profitable times as well?
 
 ### Findings and Conclusions
-![Imgur](https://i.imgur.com/mEVnN3U.png)
+![Imgur](https://i.imgur.com/kpCaAlS.png)
 
 Well, summer wins by a land slide, though you want to get started quickly.  To maximize profits, you're going to want to release starting in May and no later than June.  There is a steep drop off once you hit July and people are spending money on Back-to-School supplies.  The holiday season is also very profitable since families are spending a lot of time together.  Those profits drop off steeply come the beginning of the year, most likely because of people wanting to replenish their bank accounts after the holiday season.  As for why Oscar contenders are released during a less profitable time, I believe it's because the studios don't want to have their movies overlooked during the flood of cinema releases during the summer.  
 
